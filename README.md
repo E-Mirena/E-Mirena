@@ -1,16 +1,24 @@
-### Hi there 👋
+ Hello, I'm Eni! 👋
 
-<!--
-**E-Mirena/E-Mirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student. I enjoy working on projects, and I'm passionate about gaming and making minimalistic websites.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: I love working with C++ as I recently started learning it.
+- **Open Source**: Contributing to open source projects is something I'm keen on.
+- **Data Science**: Exploring data and deriving insights is one of my interests.
+- **Web Development**: Building web applications and exploring new frameworks.
+- **Machine Learning**: Leveraging ML algorithms to solve interesting problems.
+
+## Current Projects
+
+- None worthy to make public as of now.
+
+## Get in Touch
+
+I'm always open to collaborating on projects or discussing new ideas. Feel free to reach out to me via:
+
+- Email: enimirena@gmail.com
+- LinkedIn: Eni Mirena
+
+Looking forward to connecting with you!
